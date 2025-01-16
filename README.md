@@ -43,14 +43,21 @@ Installer:
    
    ![7](https://github.com/user-attachments/assets/cee0cb72-7c1d-4dd5-b8f2-42ef500aa98f)
    
-a) Device ID - uniue device id which is retrieved by scanning QRCode by phone's camera
-b) Latitude - location derrives from Android GPS 
-c) Longitude - location derrives from Android GPS
-d) Refresh Time - interval in secons by which device should send confirmation of it's continuity of work to MQTT Broker
-e) Forest ID - autofilled - installer is assigned to the particular forest
-f) additional info
-g) is initially closed - is gate (rotation sensor) initially closed
-h) Restart
+   a) Device ID - uniue device id which is retrieved by scanning QRCode by phone's camera
+   
+   b) Latitude - location derrives from Android GPS
+   
+   c) Longitude - location derrives from Android GPS
+   
+   d) Refresh Time - interval in secons by which device should send confirmation of it's continuity of work to MQTT Broker
+   
+   e) Forest ID - autofilled - installer is assigned to the particular forest
+   
+   f) additional info
+   
+   g) is initially closed - is gate (rotation sensor) initially closed
+   
+   h) Restart
    
 3. Deactivate Device - Forester or Installer can make sensor unvulnerable for rotation changes for a specified time
    
