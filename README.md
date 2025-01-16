@@ -1,4 +1,4 @@
-# Forest-Security
+# <img src="https://cdn.pixabay.com/photo/2014/12/22/00/07/tree-576847_1280.png" width="30" height="30"> Forest-Security
 Forest Security is an application designed for Polish National Forests in order to monitor safety of entry gates, as well as configuring sensors for detecting gates states in the real time.
 
 # Description
