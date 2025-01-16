@@ -12,10 +12,14 @@ Application collects data from gates, which are rotation sensors and triggers no
 Application works in 2 modes - Forester and Installer. In both of them different features are enabled. 
 
 Forester:
-❌ Set Device/n
-✔️ Deactivate Device/n
+❌ Set Device
+
+✔️ Deactivate Device
+
 ❌ Set Geolocation
+
 ❌ Change Device Config
+
 ✔️ Exit and listen for changes
 
 ![5](https://github.com/user-attachments/assets/5a6d7a0a-eefc-4606-a274-0da5d4d1b2d3)
